@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>表单+布局</title>
+</head>
+<body>
+<div id="lm">
+    <form  method="get">
+        <table>
+            <tbody>
+            <tr>
+                <td style="background-color: violet;height: 70rpx;width: 50px;vertical-align: center" >
+                    账号：
+                </td>
+                <td colspan="3">
+                    <input type="text" >
+                </td>
+            </tr>
+            <tr>
+                <td style="background-color: red;height: 70rpx;width: 50px;vertical-align: center">
+                    密码：
+                </td>
+                <td colspan="3">
+                    <input type="text" >
+                </td>
+            </tr>
+            <form>
+                <td>
+                    <input type="radio" name="1" value="登入" checked>登入
+                </td>
+                <td>
+                    <input type="radio" name="1" value="重置">重置
+
+                    <input type="radio" name="1" value="注册">注册
+                </td>
+                <td>
+                    <input type="submit" />
+                </td>
+            </form>
+            <form action="/example/html5/demo_form.asp" method="get">
+                E-mail: <input type="email" name="user_email" />
+
+            </form>
+            </tbody>
+        </table>
+<!--        Webpage: <input type="url" list="url_list" name="link" />-->
+<!--        <datalist id="url_list">-->
+<!--            <option label="W3School" value="http://www.w3school.com.cn" />-->
+<!--            <option label="Google" value="http://www.google.com" />-->
+<!--            <option label="Microsoft" value="http://www.microsoft.com" />-->
+<!--            <option label="Runoob" value="https://www.runoob.com/" />-->
+<!--        </datalist>-->
+<!--        <input type="submit" />-->
+    </form>
+
+</div>
+
+</body>
+</html>
