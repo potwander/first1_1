@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en" >
+<head>
+    <meta charset="UTF-8">
+    <title>注册界面</title>
+    <script src="jquery-3.5.1.min.js"></script>
+    <script type="text/javascript" src="jquery.time.js"></script>
+    <script type="text/javascript" src="day.js"></script>
+</head>
+<body>
+    <div>
+        <tbody>
+            <td>
+                请输入姓名：
+            </td>
+            <td>
+                <input type="text">
+            </td>
+            <br>
+            <td>
+                请输入密码：
+            </td>
+            <td>
+                <input type="text">
+            </td>
+            <br>
+            <td>
+                再次输入密码:
+            </td>
+            <td>
+                <input type="text">
+            </td>
+<!--            性别 -->
+            <form>
+                <td>
+                    性别：
+                </td>
+                <td>
+                    <input type="radio" name="1" value="男" checked>男
+                </td>
+                <td>
+                    <input type="radio" name="1" value="女">女
+                </td>
+            </form>
+<!--            兴趣爱好-->
+            <form>
+                <td>
+                    兴趣爱好：
+                </td>
+                <td>
+                    <input type="radio" name="1" value="游泳">游泳
+                    <input type="radio" name="1" value="看书">看书
+                    <input type="radio" name="1" value="看书">爬山
+                    <input type="radio" name="1" value="看书">思考
+                </td>
+            </form>
+<!--        生日-->
+            <form name="data">
+                <td>
+                    生日：
+                </td>
+                <select class="sel_year" name="YYYY">
+                    <option value="">请选择</option>
+                </select>
+                <font>年</font>
+                <select class="sel_month" name="MM">
+                    <option value="">请选择</option>
+                </select>
+                <font>月</font>
+                <select class="sel_day" name="DD">
+                    <option value="">请选择</option>
+                </select>
+                <font>日</font>
+            </form>
+            <form>
+                <p>
+                    头像:
+                    <img src="123.png" alt="彭于晏" width="254" height="321">
+                    <select>
+                        <option>请选择</option>
+                        <option>1</option>
+                        <option>2</option>
+                        <option>3</option>
+                    </select>
+                </p>
+            </form>
+            <form>
+                <button type="button" onclick="alert('普通按钮')">普通按钮</button>
+                <button type="button" onclick="alert('提交按钮')">提交按钮</button>
+            </form>
+            <form>
+                <textarea rows="20" cols="140" >请输入</textarea>
+                <button type="button" onclick="alert('选择文件')">选择文件</button>
+                <td>未选择任何文件</td>
+                <button type="submit" onclick="alert('上传')">确定上传</button>
+            </form>
+        </tbody>
+    </div>
+</body>
+</html>
