@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="作业4~5:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="94fea89f-a50d-4527-8059-f0d14427b5d6" name="默认更改列表" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/org_osgi_core_6_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaScript入门源代码.rar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fastjson-1.2.75.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jQuery与Ajax入门源代码.rar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lib/org.osgi.core-6.0.0-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lib/org.osgi.core-6.0.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../作业1/123.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../作业1/hello world.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../作业1/作业1.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../作业2/123.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../作业2/jquery.time.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../作业2/注册界面.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../作业3/day.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/4_5_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Java_EE_6_Java_EE_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/javax.annotation.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/javax.ejb.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/javax.jms.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/javax.persistence.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/javax.resource.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/javax.servlet.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/javax.servlet.jsp.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/javax.servlet.jsp.jstl.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/javax.transaction.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/4_5_war_exploded/JS/jquery-3.5.1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/4_5_war_exploded/WEB-INF/classes/ContentServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/4_5_war_exploded/WEB-INF/lib/fastjson-1.2.75.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/4_5_war_exploded/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/4_5_war_exploded/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/4_5_war_exploded/news.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/4_5_war_exploded/work4~5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/作业4~5/ContentServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ContentServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/JS/jquery-3.5.1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/work4~5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/作业4~5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../作业5/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../作业5/.idea/artifacts/Pro05_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../作业5/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../作业5/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../作业5/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../作业5/Pro05.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../作业5/out/artifacts/Pro05_war_exploded/WEB-INF/classes/META-INF/Pro05.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../作业5/out/artifacts/Pro05_war_exploded/WEB-INF/classes/com/declare/ajax/ContentServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../作业5/out/artifacts/Pro05_war_exploded/WEB-INF/classes/com/declare/ajax/News.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../作业5/out/artifacts/Pro05_war_exploded/WEB-INF/classes/com/declare/ajax/NewsListServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../作业5/out/artifacts/Pro05_war_exploded/WEB-INF/lib/fastjson-1.2.53.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../作业5/out/artifacts/Pro05_war_exploded/WEB-INF/lib/gson-2.2.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../作业5/out/artifacts/Pro05_war_exploded/WEB-INF/lib/hamcrest-core-1.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../作业5/out/artifacts/Pro05_war_exploded/WEB-INF/lib/junit-4.12.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../作业5/out/artifacts/Pro05_war_exploded/WEB-INF/lib/taglibs-standard-impl-1.2.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../作业5/out/artifacts/Pro05_war_exploded/WEB-INF/lib/taglibs-standard-spec-1.2.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../作业5/out/artifacts/Pro05_war_exploded/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../作业5/out/artifacts/Pro05_war_exploded/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../作业5/out/artifacts/Pro05_war_exploded/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../作业5/out/artifacts/Pro05_war_exploded/js/jquery-3.5.1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../作业5/out/artifacts/Pro05_war_exploded/news.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../作业5/out/production/Pro05/com/declare/ajax/ContentServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../作业5/out/production/Pro05/com/declare/ajax/News.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../作业5/out/production/Pro05/com/declare/ajax/NewsListServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../作业5/src/com/declare/ajax/ContentServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../作业5/web/WEB-INF/lib/gson-2.2.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../作业5/web/WEB-INF/lib/hamcrest-core-1.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../作业5/web/WEB-INF/lib/junit-4.12.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../作业5/web/WEB-INF/lib/taglibs-standard-impl-1.2.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../作业5/web/WEB-INF/lib/taglibs-standard-spec-1.2.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../作业5/web/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../作业5/web/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../作业5/web/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../作业5/web/js/jquery-3.5.1.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/idea_work.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/idea_work.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../123.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../123.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello world.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jquery.time.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../注册界面.html" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="ProjectId" id="1kNHzYQkes8Wqw0bpHIYiz0LQgK" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="添加" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../fastjson-1.2.75.jar!/" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Tomcat 9.0.36" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.36" ALTERNATIVE_JRE_ENABLED="true" ALTERNATIVE_JRE_PATH="11" nameIsGenerated="true">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="作业4~5:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/4_5_war_exploded" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_作业4~5" />
+        <option name="DEPLOY_TOMCAT_APPS" value="true" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="51274" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="作业4~5:war exploded" />
+        </option>
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Tomcat Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Tomcat Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="运行" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Tomcat Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="完成" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="94fea89f-a50d-4527-8059-f0d14427b5d6" name="默认更改列表" comment="" />
+      <created>1605534391869</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605534391869</updated>
+      <workItem from="1605534395535" duration="2330000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="201" key="#Inspections" timestamp="1605535364323">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="552" y="201" key="#Inspections/-1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1605535364323" />
+    <state x="414" y="197" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1605536594853">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="414" y="197" key="#com.intellij.execution.impl.EditConfigurationsDialog/-1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1605536594853" />
+    <state x="740" y="283" key="FileChooserDialogImpl" timestamp="1605535664663">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="740" y="283" key="FileChooserDialogImpl/-1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1605535664663" />
+    <state width="1293" height="295" key="GridCell.Tab.0.bottom" timestamp="1605536726896">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1293" height="295" key="GridCell.Tab.0.bottom/-1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1605536726896" />
+    <state width="1293" height="295" key="GridCell.Tab.0.center" timestamp="1605536726896">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1293" height="295" key="GridCell.Tab.0.center/-1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1605536726896" />
+    <state width="1293" height="295" key="GridCell.Tab.0.left" timestamp="1605536726896">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1293" height="295" key="GridCell.Tab.0.left/-1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1605536726896" />
+    <state width="1293" height="295" key="GridCell.Tab.0.right" timestamp="1605536726896">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1293" height="295" key="GridCell.Tab.0.right/-1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1605536726896" />
+    <state width="1293" height="295" key="GridCell.Tab.1.bottom" timestamp="1605536726896">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1293" height="295" key="GridCell.Tab.1.bottom/-1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1605536726896" />
+    <state width="1293" height="295" key="GridCell.Tab.1.center" timestamp="1605536726896">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1293" height="295" key="GridCell.Tab.1.center/-1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1605536726896" />
+    <state width="1293" height="295" key="GridCell.Tab.1.left" timestamp="1605536726896">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1293" height="295" key="GridCell.Tab.1.left/-1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1605536726896" />
+    <state width="1293" height="295" key="GridCell.Tab.1.right" timestamp="1605536726896">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1293" height="295" key="GridCell.Tab.1.right/-1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1605536726896" />
+    <state width="1293" height="295" key="GridCell.Tab.2.bottom" timestamp="1605536726896">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1293" height="295" key="GridCell.Tab.2.bottom/-1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1605536726896" />
+    <state width="1293" height="295" key="GridCell.Tab.2.center" timestamp="1605536726896">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1293" height="295" key="GridCell.Tab.2.center/-1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1605536726896" />
+    <state width="1293" height="295" key="GridCell.Tab.2.left" timestamp="1605536726896">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1293" height="295" key="GridCell.Tab.2.left/-1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1605536726896" />
+    <state width="1293" height="295" key="GridCell.Tab.2.right" timestamp="1605536726896">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1293" height="295" key="GridCell.Tab.2.right/-1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1605536726896" />
+    <state x="440" y="117" key="SettingsEditor" timestamp="1605535846655">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="440" y="117" key="SettingsEditor/-1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1605535846655" />
+  </component>
+</project>
