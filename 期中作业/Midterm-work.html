@@ -1,0 +1,317 @@
+<!doctype html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Midterm-work</title>
+    <link rel="icon" type="image/x-icon" href="image/小吉他.ico" />
+    <link href="css/图片轮播.css" rel="stylesheet" type="text/css">
+    <link href="css/菜单目录.css" rel="stylesheet" type="text/css">
+    <link href="css/左侧导航栏.css" rel="stylesheet" type="text/css">
+    <link href="css/下方表格.css" rel="stylesheet" type="text/css">
+    <link href="css/右侧公告栏.css" rel="stylesheet" type="text/css">
+    <link href="css/foot信息栏.css" rel="stylesheet" type="text/css">
+    <link href="css/吉他展示栏.css" rel="stylesheet" type="text/css">
+    <link href="css/主页.css" rel="stylesheet" type="text/css">
+    <script src="js/index.js"></script>
+</head>
+<body>
+<button id="myBtn" onClick="toTop()" title="返回首页"><img src="image/ToTop.png" alt="totop.png"></button>
+<div id="reg">
+    <img src="image/close.png" onClick="Noreg()" alt="close.png">
+    <h3>注册账号</h3>
+    <table>
+        <tr><td>账号:</td><td><label for="zhanghao"></label><input class="reg" type="text" name="zhanghao" id="zhanghao"></td></tr>
+        <tr><td>密码:</td><td><label for="mima"></label><input class="reg" type="password" name="mima" id="mima"></td></tr>
+    </table>
+    <button id="zc" onClick="RegTip()">注册</button>
+    <button id="qx" onClick="ResetReg()">重置</button>
+</div>
+<div id="logo">
+    <img src="image/小吉他.ico" width="200px" height="200px" alt="小吉他.ico">
+    <table>
+        <tr><td>小</td><td></td></tr>
+        <tr><td>锅</td><td>吉</td></tr>
+        <tr><td>的</td><td>他</td></tr>
+        <tr><td></td><td>营</td></tr>
+    </table>
+</div>
+<div id="container">
+    <header>
+        <ul id="imagenav">
+            <li><img src="image/乐队1.jpg" width="600px" height="250px" alt="乐队1.jpg"></li>
+            <li><img src="image/乐队2.jpg" width="600px" height="250px" alt="乐队2.jpg"></li>
+            <li><img src="image/乐队3.jpg" width="600px" height="250px" alt="乐队3.jpg"></li>
+            <li><img src="image/乐队4.jpg" width="600px" height="250px" alt="乐队4.jpg"></li>
+            <li><img src="image/乐队5.jpg" width="600px" height="250px" alt="乐队5.jpg"></li>
+        </ul>
+        <div id="number">
+            <ul id="numbernav">
+                <li></li>
+                <li></li>
+                <li></li>
+                <li></li>
+                <li></li>
+                <li id="flag"></li>
+            </ul>
+        </div>
+    </header>
+
+    <div id="show">
+        <aside id="left">
+            <div id="leftup">
+                <font>账号登录</font>
+                <form name="form1" method="get">
+                    <p><font>账号：</font><label for="name"></label><input type="text" id="name" placeholder="Username"></p>
+                    <p><font>密码：</font><label for="password"></label><input type="password" id="password" placeholder="Password"></p>
+                    <p><input type="button" class="button" onClick="ResetLog()" value="登录">
+                        <input type="button" class="button" onClick="Reg()" value="注册">
+                        <input type="button" class="button" style="width:70px" onClick="ResetLog()" value="忘记密码"></p>
+                </form>
+            </div>
+            <div id="leftdown">
+                <p class="title">吉他配件</p>
+                <ul>
+                    <li><a href="html/asideshow.html#jtpj" target="showframe">吉他变调夹</a></li>
+                    <li><a href="html/asideshow.html#jtpj" target="showframe">吉他调音器</a></li>
+                    <li><a href="html/asideshow.html#jtpj" target="showframe">吉他拾音器</a></li>
+                    <li><a href="html/asideshow.html#jtpj" target="showframe">吉他音箱</a></li>
+                    <li><a href="html/asideshow.html#jtpj" target="showframe">节拍器</a></li>
+                </ul>
+                <p class="title">尤克里里配件</p>
+                <ul>
+                    <li><a href="html/asideshow.html#ykllpj" target="showframe">节拍器</a></li>
+                    <li><a href="html/asideshow.html#ykllpj" target="showframe">尼龙弦</a></li>
+                    <li><a href="html/asideshow.html#ykllpj" target="showframe">变调夹</a></li>
+                    <li><a href="html/asideshow.html#ykllpj" target="showframe">音箱</a></li>
+                </ul>
+                <p class="title">键盘相关</p>
+                <ul>
+                    <li><a href="html/asideshow.html#jpxg" target="showframe">钢琴节拍器</a></li>
+                    <li><a href="html/asideshow.html#jpxg" target="showframe">钢琴指力器</a></li>
+                    <li><a href="html/asideshow.html#jpxg" target="showframe">手指矫正器</a></li>
+                    <li><a href="html/asideshow.html#jpxg" target="showframe">钢琴清洁剂</a></li>
+                </ul>
+                <p class="title">其他配件</p>
+                <ul>
+                    <li><a href="html/asideshow.html#qtpj" target="showframe">话筒</a></li>
+                    <li><a href="html/asideshow.html#qtpj" target="showframe">指力器</a></li>
+                    <li><a href="html/asideshow.html#qtpj" target="showframe">乐谱本</a></li>
+                    <li><a href="html/asideshow.html#qtpj" target="showframe">拨片</a></li>
+                </ul>
+            </div>
+        </aside>
+        <aside id="right">
+            <p>热门排行Top20</p>
+            <ol type="1">
+                <li>The Beatles</li><li>Pink Floyd</li><li>The Who</li><li>Rolling Stones</li><li>Led Zeppelin</li>
+                <li>Eagles</li><li>Grateful Dead</li><li>Jefferson</li><li>The Doors</li><li>Moody Blues</li>
+                <li>Fleetwood Mac</li><li>AC/DC</li><li>Boston</li><li>Cream</li><li>Def Leppard</li>
+                <li>The Byrds</li><li>Aerosmith</li><li>Santana</li><li>Queens</li><li>Van Halen</li>
+            </ol>
+        </aside>
+
+        <main>
+            <iframe src="html/main.html" frameborder="0" width="100%" height="100%" scrolling="no" name="showframe"></iframe>
+        </main>
+
+        <div id="table">
+            <table>
+                <tr>
+                    <td><a href="html/tableshow.html#a" target="showframe" onClick="toShow()">Alice/爱丽丝</a></td>
+                    <td><a href="html/tableshow.html#b" target="showframe" onClick="toShow()">BlackStar/黑星</a></td>
+                    <td><a href="html/tableshow.html#c" target="showframe" onClick="toShow()">Coolmusic/酷乐</a></td>
+                    <td><a href="html/tableshow.html#d" target="showframe" onClick="toShow()">Dunlop/邓禄普</a></td>
+                    <td><a href="html/tableshow.html#e" target="showframe" onClick="toShow()">Enya/恩雅</a></td>
+                </tr>
+                <tr>
+
+                    <td><a href="html/tableshow.html#f" target="showframe" onClick="toShow()">Fender/芬达</a></td>
+                    <td><a href="html/tableshow.html#g" target="showframe" onClick="toShow()">GIBSON/吉普森</a></td>
+                    <td><a href="html/tableshow.html#h" target="showframe" onClick="toShow()">HARTKE/哈克</a></td>
+                    <td><a href="html/tableshow.html#i" target="showframe" onClick="toShow()">IBANEZ/依班娜</a></td>
+                    <td><a href="html/tableshow.html#j" target="showframe" onClick="toShow()">JOYO/卓乐</a></td>
+                </tr>
+                <tr>
+                    <td><a href="html/tableshow.html#k" target="showframe" onClick="toShow()">Kepma/卡马</a></td>
+                    <td><a href="html/tableshow.html#l" target="showframe" onClick="toShow()">Laney/兰尼</a></td>
+                    <td><a href="html/tableshow.html#m" target="showframe" onClick="toShow()">Martin/马丁</a></td>
+                    <td><a href="html/tableshow.html#n" target="showframe" onClick="toShow()">Nux</a></td>
+                    <td><a href="html/tableshow.html#p" target="showframe" onClick="toShow()">Peavey/百威</a></td>
+                </tr>
+                <tr>
+                    <td><a href="html/tableshow.html#r" target="showframe" onClick="toShow()">Roland/罗兰</a></td>
+                    <td><a href="html/tableshow.html#s" target="showframe" onClick="toShow()">SOLO</a></td>
+                    <td><a href="html/tableshow.html#t" target="showframe" onClick="toShow()">Taylor/泰勒</a></td>
+                    <td><a href="html/tableshow.html#w" target="showframe" onClick="toShow()">WARWICK/握威</a></td>
+                    <td><a href="html/tableshow.html#x" target="showframe" onClick="toShow()">Xvive伏荣</a></td>
+                </tr>
+            </table>
+        </div>
+    </div>
+
+    <div id="showguitar">
+        <a name="djt"></a>
+        <div class="guitarsort">
+            <p>电吉他</p>
+            <div class="detail"><img src="image/依班娜.jpg" alt="乐队1.jpg"><p>依班娜<br>1399元</p></div>
+            <div class="detail"><img src="image/芬达.jpg" alt="芬达.jpg"><p>芬达<br>5480元</p></div>
+            <div class="detail"><img src="image/PRS.jpg" alt="PRS.jpg"><p>PRS<br>5574元</p></div>
+        </div>
+        <a name="myjt1"></a>
+        <div class="guitarsort" style="height:810px">
+            <p>民谣吉他</p>
+            <div class="detail"><a name="myjt2"></a><img src="image/黑洞.jpg" alt="黑洞.jpg"><p>黑洞<br>1280元</p></div>
+            <div class="detail"><img src="image/布鲁克.jpg" alt="布鲁克.jpg"><p>布鲁克<br>1580元</p></div>
+            <div class="detail"><img src="image/恩雅.jpg" alt="恩雅.jpg"><p>恩雅<br>1280元</p></div>
+            <div class="detail"><img src="image/鸽子.jpg" alt="鸽子.jpg"><p>鸽子<br>1580元</p></div>
+
+            <div class="detail"><a name="myjt3"></a><img src="image/加百列.jpg" alt="加百列.jpg"><p>加百列<br>1580元</p></div>
+            <div class="detail"><img src="image/歌斐木.jpg" alt="歌斐木.jpg"><p>歌斐木<br>2880元</p></div>
+            <div class="detail"><img src="image/土星.jpg" alt="土星.jpg"><p>土星<br>1280元</p></div>
+            <div class="detail"><img src="image/拿火.jpg" alt="拿火.jpg"><p>拿火<br>2180元</p></div>
+
+            <div class="detail"><img src="image/泰勒.jpg" alt="泰勒.jpg"><p>泰勒<br>5890元</p></div>
+            <div class="detail"><img src="image/马丁.jpg" alt="马丁.jpg"><p>马丁<br>4400元</p></div>
+            <div class="detail"><img src="image/卡马.jpg" alt="卡马.jpg"><p>卡马<br>599元</p></div>
+        </div>
+        <a name="gdjt"></a>
+        <div class="guitarsort">
+            <p>古典吉他</p>
+            <div class="detail"><img src="image/拉碧塔.jpg" alt="拉碧塔.jpg"><p>拉碧塔<br>1730元</p></div>
+            <div class="detail"><img src="image/先恒.jpg" alt="先恒.jpg"><p>先恒<br>1080元</p></div>
+            <div class="detail"><img src="image/雅马哈.jpg" alt="雅马哈.jpg"><p>雅马哈<br>1299元</p></div>
+        </div>
+        <a name="bs"></a>
+        <div class="guitarsort">
+            <p>贝斯</p>
+            <div class="detail"><img src="image/奥利斯.jpg" alt="奥利斯.jpg"><p>奥利斯<br>530元</p></div>
+            <div class="detail"><img src="image/SQUIER.jpg" alt="SQUIER.jpg"><p>SQUIER<br>1800元</p></div>
+</div>
+        <a name="ykll"></a>
+        <div class="guitarsort">
+            <p>尤克里里</p>
+            <div class="detail"><img src="image/卢森.jpg" alt="卢森.jpg"><p>卢森<br>399元</p></div>
+            <div class="detail"><img src="image/雅马哈尤克里里.jpg" alt="雅马哈尤克里里.jpg"><p>雅马哈<br>399元</p></div>
+        </div>
+        <a name="jzg"></a>
+        <div class="guitarsort">
+            <p>架子鼓</p>
+            <div class="detail"><img src="image/DW.jpg" alt="DW.jpg"><p>DW<br>4320元</p></div>
+            <div class="detail"><img src="image/Ludig.jpg" alt="Ludig.jpg"><p>Ludwig<br>9500元</p></div>
+            <div class="detail"><img src="image/SONOR.jpg" alt="SONOR.jpg"><p>SONOR<br>14500元</p></div>
+        </div>
+    </div>
+
+
+    <nav>
+        <ul>
+            <li>电吉他
+                <ul class="erji">
+                    <li>依班娜
+                        <ul class="sanji">
+                            <li><a href="#djt">依班娜单摇</a></li>
+                            <li><a href="#djt">依班娜双摇</a></li>
+                        </ul>
+                    </li>
+                    <li>芬达
+                        <ul class="sanji">
+                            <li><a href="#djt">芬达单摇</a></li>
+                            <li><a href="#djt">芬达双摇</a></li>
+                        </ul>
+                    </li>
+                    <li>PRS
+                        <ul class="sanji">
+                            <li><a href="#djt">PRS单摇</a></li>
+                            <li><a href="#djt">PRS双摇</a></li>
+                        </ul>
+                    </li>
+                </ul>
+            </li>
+            <li>民谣吉他
+                <ul class="erji">
+                    <li>泰勒
+                        <ul class="sanji">
+                            <li><a href="#myjt3">泰勒全单</a></li>
+                            <li><a href="#myjt3">泰勒面单</a></li>
+                        </ul>
+                    </li>
+                    <li>马丁
+                        <ul class="sanji">
+                            <li><a href="#myjt3">马丁全单</a></li>
+                            <li><a href="#myjt3">马丁面单</a></li>
+                        </ul>
+                    </li>
+                    <li>卡马
+                        <ul class="sanji">
+                            <li><a href="#myjt3">卡马全单</a></li>
+                            <li><a href="#myjt3">卡马面单</a></li>
+                            <li><a href="#myjt3">卡马合板</a></li>
+                        </ul>
+                    </li>
+                </ul>
+            </li>
+            <li>古典吉他
+                <ul class="erji">
+                    <li><a href="#gdjt">拉碧塔</a></li>
+                    <li><a href="#gdjt">先恒</a></li>
+                    <li><a href="#gdjt">雅马哈</a></li>
+                </ul>
+            </li>
+            <li>贝斯
+                <ul class="erji">
+                    <li>奥利斯
+                        <ul class="sanji">
+                            <li><a href="#bs">4弦电贝斯</a></li>
+                            <li><a href="#bs">5弦电贝斯</a></li>
+                            <li><a href="#bs">电木贝斯</a></li>
+                        </ul>
+                    </li>
+                    <li>SQUIER
+                        <ul class="sanji">
+                            <li><a href="#bs">4弦电贝斯</a></li>
+                            <li><a href="#bs">5弦电贝斯</a></li>
+                            <li><a href="#bs">电木贝斯</a></li>
+                        </ul>
+                    </li>
+                </ul>
+            </li>
+            <li>尤克里里
+                <ul class="erji">
+                    <li>卢森
+                        <ul class="sanji">
+                            <li><a href="#ykll">21寸</a></li>
+                            <li><a href="#ykll">23寸</a></li>
+                            <li><a href="#ykll">26寸</a></li>
+                        </ul>
+                    </li>
+                    <li>雅马哈
+                        <ul class="sanji">
+                            <li><a href="#ykll">21寸</a></li>
+                            <li><a href="#ykll">23寸</a></li>
+                            <li><a href="#ykll">26寸</a></li>
+                        </ul>
+                    </li>
+                </ul>
+            </li>
+            <li>架子鼓
+                <ul class="erji">
+                    <li><a href="#jzg">DW</a></li>
+                    <li><a href="#jzg">Ludwig</a></li>
+                    <li><a href="#jzg">SONOR</a></li>
+                </ul>
+            </li>
+            <li id="move"></li>
+            <font id="search">
+                <form action="" method="get">
+                    <label for="searchtext"></label><input type="text" id="searchtext" placeholder="search">
+                    <input type="button" onclick="SeaTip()"value="搜索" id="searchsubmit">
+                </form>
+            </font>
+        </ul>
+    </nav>
+</div>
+
+<footer><p><a>关于我们</a><a>新品发售</a><a>广告服务</a><a>二手市场</a></p></footer>
+
+</body>
+</html>

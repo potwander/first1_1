@@ -1,0 +1,16 @@
+@charset "utf-8";
+/* CSS Document */
+
+footer p{
+	text-align:center;
+	line-height:30px;
+	padding-top:10px}
+footer a{
+	color:#555;
+	padding-left:5px;
+	padding-right:5px;
+	cursor:pointer}
+footer a:hover{
+	text-decoration:underline;
+	color:black}
+

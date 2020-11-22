@@ -1,0 +1,23 @@
+@charset "utf-8";
+/* CSS Document */
+#table table{
+	width:800px;
+	height:210px;
+	margin-left:20px;
+	border-radius:10px;}	
+#table td:nth-child(odd){background-color:lightblue}
+#table td:nth-child(even){background-color:#6CE}
+#table td{
+	width:200px;
+	text-align:center;}
+#table td a{
+	text-decoration:none;
+	display:block;
+	color:black;
+	font-size:18px;
+	font-weight:500;
+	line-height:50px}
+#table td a:hover{
+	color:red;
+	box-shadow:0 0 5px black}
+

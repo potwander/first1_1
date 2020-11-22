@@ -1,0 +1,57 @@
+@charset "utf-8";
+/* CSS Document */
+*{
+	margin:0;
+	padding:0}
+.con{
+	width:700px;
+	height:800px;}
+.a{
+	height:50px;
+	margin-bottom:0;}
+.rongqi{
+	width:600px;
+	height:700px;
+	margin:50px auto;
+	margin-top:0;
+	border:1px solid white;
+	box-shadow:0 0 15px #609}
+.rongqi>p{
+	line-height:50px;
+	padding-left:20px;
+	font-size:24px;
+	font-weight:500;
+	font-family:Verdana, Geneva, sans-serif}
+.detail{
+	width:200px;
+	height:300px;
+	float:left;
+	margin-top:5px;
+	margin-bottom:15px;}
+.detail>img{
+	width:160px;
+	height:210px;
+	margin:20px;
+	margin-bottom:10px;
+	border:1px solid white;
+	cursor:pointer;
+	transition:all 0.2s;} 
+.detail>img:hover{
+	cursor:pointer;
+	transform:scale(1.35);
+	box-shadow:0 0 15px #F33}
+.detail>p{
+	line-height:25px;
+	text-align:center;
+	font-size:18px;
+	font-weight:500;
+	cursor:pointer}  
+	
+.icon{
+	float:right;
+	margin:10px 0;
+	margin-right:20px;
+	box-shadow:0 0 0 white;
+	border:0 solid white;
+	width:35px;
+	height:35px}

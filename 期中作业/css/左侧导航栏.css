@@ -1,0 +1,96 @@
+@charset "utf-8";
+/* CSS Document */
+	/*---------登录----------*/
+#leftup{
+	position:absolute;
+	top:0;
+	left:0;
+	right:0;
+	border-radius:30px;
+	width:190px;
+	height:180px;
+	background:rgba(102,204,255,0.8)}
+#leftup>font{
+	color:#009;
+	line-height:40px;
+	font-size:24px;
+	font-style:oblique;
+	font-family:Verdana, Geneva, sans-serif;
+	padding-left:10px;
+	padding-top:10px;
+	padding-bottom:10px;}
+#leftup p{
+	margin-top:5px;
+	margin-bottom:10px;
+	padding-left:10px;
+	padding-right:10px;
+	line-height:30px;
+	font-size:18px}
+#leftup p>font{
+	color:#009;
+	font-weight:400;
+	font-family:Verdana, Geneva, sans-serif}
+#leftup .button{
+	width:43px;
+	height:30px;
+	margin-right:1px;
+	margin-top:5px;
+	color:#009;
+	background:transparent;
+	border-radius:12px;
+	font-size:14px}
+#leftup .button:hover{
+	cursor:pointer;
+	box-shadow:0 0 10px #369}
+#name,#password{
+	width:100px;
+	height:20px;
+	border:none;
+	background:transparent;
+	border-bottom:1px solid #00F}
+	/*----------------------*/
+	/*---------分类导航----------*/
+#leftdown{
+	position:absolute;
+	top:190px;
+	bottom:0;
+	left:0;
+	right:0;
+	border-radius:30px;
+	height:840px;
+	width:190px;
+	background:rgba(102,204,255,0.8)}
+#leftdown .title{
+	margin-top:10px;
+	margin-left:20px;
+	margin-right:20px;
+	text-align:center;
+	line-height:30px;
+	color:#03C;
+	border-radius:15px;
+	box-shadow:0 0 10px #609;
+	font-size:22px;
+	font-weight:600;
+	font-family:Verdana, Geneva, sans-serif}
+#leftdown ul{
+	margin-top:5px;
+	margin-bottom:10px;
+	margin-left:25px;}
+#leftdown li{
+	width:120px;
+	height:30px;
+	border-bottom:1px solid pink;
+	padding-left:15px;
+	line-height:30px;
+	font-style:oblique;
+	font-size:16px;
+	font-weight:500;
+	font-family:Verdana, Geneva, sans-serif}
+#leftdown a{
+	text-decoration:none;
+	display:block;
+	color:#63F}
+#leftdown a:hover{
+	font-weight:500;
+	color:red}
+	/*----------------------*/
